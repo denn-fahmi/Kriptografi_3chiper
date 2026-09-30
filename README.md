@@ -11,7 +11,7 @@ Repositori ini berisi 3 implementasi algoritma cipher klasik berdasarkan materi 
 
 ## Cara Menjalankan Program
 
-```bash
+bash
 # Running Caesar Cipher
 python caesar_cipher.py
 
