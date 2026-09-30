@@ -6,11 +6,11 @@ Kelas: I241E <p>
 Repositori ini berisi 3 implementasi algoritma cipher klasik berdasarkan materi perkuliahan Kriptografi:
 
 1. **Caesar Cipher** (Cipher Substitusi Monoalfabetik) <p>
-   [Caesar Chiper](./caesar_chiper.py)
+   [Caesar_Chiper](./caesar_chiper.py)
 3. **Vigenere Cipher** (Cipher Substitusi Abjad-Majemuk) <p>
-   [Vigenere chiper](vigenere_cipher.py)
+   [Vigenere_chiper](vigenere_cipher.py)
 4. **Columnar Transposition Cipher** (Cipher Transposisi) <p>
-   [columnar transposition](columnar_transposition.py)
+   [columnar_transposition](columnar_transposition.py)
 ## Cara Menjalankan Program
 1. Unduh repositori ini (tombol Code -> Download ZIP) lalu ekstrak. <p>
 2. Pastikan Python 3 sudah terinstall di komputer. <p>
